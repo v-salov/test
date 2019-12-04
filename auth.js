@@ -5,3 +5,5 @@ function authenticate (login, password) {
     return 'Login is incorrect';
   }
 }
+
+const newFunction = (a , b) => a - b
