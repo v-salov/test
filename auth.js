@@ -6,4 +6,4 @@ function authenticate (login, password) {
   }
 }
 
-const newFunction = (a , b, c) => a - b + c
+const newFunc = (a, b, c) => a - b + c
